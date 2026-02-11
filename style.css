@@ -1,0 +1,31 @@
+/* Change the background color of the page */
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+}
+
+/* Style all h1 headings */
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+/* Style all paragraphs */
+p {
+  color: black;
+  font-size: 16px;
+}
+
+/* Style a button */
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+}
